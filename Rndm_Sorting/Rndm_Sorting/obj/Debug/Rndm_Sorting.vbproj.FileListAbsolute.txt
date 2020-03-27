@@ -1,0 +1,11 @@
+C:\Users\jarod\source\repos\Semana 9\Rndm_Sorting\Rndm_Sorting\bin\Debug\Rndm_Sorting.exe.config
+C:\Users\jarod\source\repos\Semana 9\Rndm_Sorting\Rndm_Sorting\bin\Debug\Rndm_Sorting.exe
+C:\Users\jarod\source\repos\Semana 9\Rndm_Sorting\Rndm_Sorting\bin\Debug\Rndm_Sorting.pdb
+C:\Users\jarod\source\repos\Semana 9\Rndm_Sorting\Rndm_Sorting\bin\Debug\Rndm_Sorting.xml
+C:\Users\jarod\source\repos\Semana 9\Rndm_Sorting\Rndm_Sorting\obj\Debug\Rndm_Sorting.vbprojAssemblyReference.cache
+C:\Users\jarod\source\repos\Semana 9\Rndm_Sorting\Rndm_Sorting\obj\Debug\Rndm_Sorting.Form1.resources
+C:\Users\jarod\source\repos\Semana 9\Rndm_Sorting\Rndm_Sorting\obj\Debug\Rndm_Sorting.Resources.resources
+C:\Users\jarod\source\repos\Semana 9\Rndm_Sorting\Rndm_Sorting\obj\Debug\Rndm_Sorting.vbproj.GenerateResource.cache
+C:\Users\jarod\source\repos\Semana 9\Rndm_Sorting\Rndm_Sorting\obj\Debug\Rndm_Sorting.exe
+C:\Users\jarod\source\repos\Semana 9\Rndm_Sorting\Rndm_Sorting\obj\Debug\Rndm_Sorting.xml
+C:\Users\jarod\source\repos\Semana 9\Rndm_Sorting\Rndm_Sorting\obj\Debug\Rndm_Sorting.pdb
